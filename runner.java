@@ -39,13 +39,6 @@ public class runner {
 	 default:
 		 System.out.println("invalid input");
 		 break;
-	 }}
-
-
-		
-		
-		
-		
-		
+	 }}	
 	}
 }
