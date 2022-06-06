@@ -42,51 +42,6 @@ public class runner1 {
 			 System.out.println("invalid input");
 			 break;
 		 }}
-
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-		queue<Integer>  Queue = new queue<>();
-		Queue.enQueue(10);
-        Queue.enQueue(20);
-        Queue.enQueue(30);
-        Queue.displayQueue();
-        
-        System.out.println("An Item deQueued ::"+Queue.deQueue());
-        Queue.displayQueue();
-		//stem.out.println("An Item deQueued ::"+Queue.deQueue());
-		System.out.println("Queue Length:"+Queue.size());
 		
 
 
